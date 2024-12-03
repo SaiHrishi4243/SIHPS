@@ -11,8 +11,22 @@ Government of Gujarat
 
 ## Idea
 
+1.Interaction Portal For Alumni : Interaction hub for alumni to connect with other alums based on shared interests, professions, and geographic locations, mentorship, and collaboration opportunities.
+
+2.Job Portal : Enables alumni to explore career opportunities, post job openings, and connect with potential employers within the alumni network.
+
+3.Success Story Portal : Success stories, notable contributions to society, and their achievements throughout freshman, sophomore, junior and senior years available for other alums and current students to view.
+
+4.Event Portal : Provides information on upcoming alumni events, reunions, workshops, and professional development sessions.
+
+5.Alumni Directory Portal : Search functionalities available for alumni to find alumns based on different criteria such as graduation year, field of study, industry, location.
+
+6.Donation Portal :  Allows alumni to contribute donations easily and support various initiatives and projects undertaken by the college
+
+7.FeedBack Portal : Section for alumni to provide feedback on their experiences, suggest improvements, and participate in surveys to help shape future initiatives of the association
 
 ## Proposed Solution / Architecture Diagram
+
 
 
 ## Use Cases
@@ -21,5 +35,11 @@ Government of Gujarat
 ## Technology Stack
 
 
+
 ## Dependencies
 
+Tracking Success Story - 4 to 5 days
+
+Site Development and Maintainence - ₹ 10,000
+
+Event Managements -  ₹ 20,000
