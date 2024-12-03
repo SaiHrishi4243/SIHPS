@@ -27,11 +27,11 @@ Government of Gujarat
 
 ## Proposed Solution / Architecture Diagram
 
-![Screenshot 2024-12-03 230124](https://github.com/user-attachments/assets/1014fa8e-e1a5-433f-a82f-a6eeaba61ea5)
+![Screenshot 2024-12-03 232238](https://github.com/user-attachments/assets/f7f5b2bb-a84f-46ad-b3b7-b71547d29509)
 
 ## Use Cases
 
-![Screenshot 2024-12-03 230146](https://github.com/user-attachments/assets/1c8367e4-7c17-4c75-8d29-d0b3251fe7b1)
+![Screenshot 2024-12-03 232254](https://github.com/user-attachments/assets/1539392e-72cf-48f1-a750-160920ead2aa)
 
 ## Technology Stack
 
