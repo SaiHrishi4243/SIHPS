@@ -13,28 +13,41 @@ Government of Gujarat
 
 1.Interaction Portal For Alumni : Interaction hub for alumni to connect with other alums based on shared interests, professions, and geographic locations, mentorship, and collaboration opportunities.
 
-2.Job Portal : Enables alumni to explore career opportunities, post job openings, and connect with potential employers within the alumni network.
+2.Job Opportunities : Wedgets and forms enabling alums to explore career opportunities, post job openings, and connect with potential employers within the alumni network.
 
-3.Success Story Portal : Success stories, notable contributions to society, and their achievements throughout freshman, sophomore, junior and senior years available for other alums and current students to view.
+3.Success Story : Success stories, notable contributions to society, and their achievements throughout freshman, sophomore, junior and senior years available for other alums and current students to view.
 
-4.Event Portal : Provides information on upcoming alumni events, reunions, workshops, and professional development sessions.
+4.Event and Reunion: Provides information on upcoming alumni events, reunions, workshops, and professional development sessions.
 
-5.Alumni Directory Portal : Search functionalities available for alumni to find alumns based on different criteria such as graduation year, field of study, industry, location.
+5.Alumni Directory : Search functionalities available for alumni to find alums based on different criteria such as graduation year, field of study, industry, location.
 
-6.Donation Portal :  Allows alumni to contribute donations easily and support various initiatives and projects undertaken by the college
+6.Donation : Allows alumni to contribute donations securely and support various initiatives and projects undertaken by the college
 
-7.FeedBack Portal : Section for alumni to provide feedback on their experiences, suggest improvements, and participate in surveys to help shape future initiatives of the association
+7.FeedBack : Section for alumni to provide feedback on their experiences and suggest improvements to help shape future initiatives of the association
 
 ## Proposed Solution / Architecture Diagram
 
-
+![Screenshot 2024-12-03 230124](https://github.com/user-attachments/assets/1014fa8e-e1a5-433f-a82f-a6eeaba61ea5)
 
 ## Use Cases
 
+![Screenshot 2024-12-03 230146](https://github.com/user-attachments/assets/1c8367e4-7c17-4c75-8d29-d0b3251fe7b1)
 
 ## Technology Stack
 
+React.js
 
+Node.js
+
+WidgetPad 
+
+Form Builder
+
+Firebird
+
+Web AppSec
+
+Git , Postman or Insomnia
 
 ## Dependencies
 
