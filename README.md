@@ -15,9 +15,9 @@ Government of Gujarat
 
 2.Job Opportunities : Wedgets and forms enabling alums to explore career opportunities, post job openings, and connect with potential employers within the alumni network.
 
-3.Success Story : Success stories, notable contributions to society, and their achievements throughout freshman, sophomore, junior and senior years available for other alums and current students to view.
+3.Success Story : Success stories, notable contributions to society, and their achievements throughout freshman, sophomore, junior and senior years shared by alumni available for other alums and current students to view.
 
-4.Event and Reunion: Provides information on upcoming alumni events, reunions, workshops, and professional development sessions.
+4.Event and Reunion: Provides information on wedgets regarding upcoming alumni events, reunions, workshops, and professional development sessions.
 
 5.Alumni Directory : Search functionalities available for alumni to find alums based on different criteria such as graduation year, field of study, industry, location.
 
